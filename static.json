@@ -1,7 +1,8 @@
 {
-  "headers":{
-    "*":{
-      "X-Author":"sclp_1"
+  "headers": {
+    "/*": {
+      "X-Author": "sclp_1",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
